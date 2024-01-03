@@ -1,0 +1,5 @@
+flask
+pytest
+pylint
+python-dotenv
+requests
